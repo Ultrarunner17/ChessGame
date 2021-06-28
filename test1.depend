@@ -1,0 +1,728 @@
+# depslib dependency file v1.0
+1426783643 source:c:\users\nicol_000\desktop\projet\test1\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"jeu.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\begin_code.h
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\close_code.h
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_keysym.h
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\mingw\sdl\include\begin_code.h
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\close_code.h
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_keysym.h
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\mingw\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1426877614 c:\users\nicol_000\desktop\projet\test1\jeu.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1426877539 source:c:\users\nicol_000\desktop\projet\test1\jeu.c
+	"jeu.h"
+
+1426877533 source:c:\users\nicol_000\desktop\projet\test1\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"jeu.h"
+
+1427990288 source:c:\users\nicol_000\desktop\projet\tests\test_02\jeu.c
+	"jeu.h"
+
+1427990282 c:\users\nicol_000\desktop\projet\tests\test_02\jeu.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1427989961 source:c:\users\nicol_000\desktop\projet\tests\test_02\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"jeu.h"
+
+1428167523 source:c:\users\nicol_000\desktop\projet\chess_game\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"jeu.h"
+
+1428155167 c:\users\nicol_000\desktop\projet\chess_game\jeu.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1428167311 source:c:\users\nicol_000\desktop\projet\chess_game\jeu.c
+	"jeu.h"
+
+1428523665 source:c:\users\nicol_000\desktop\chess_game\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"jeu.h"
+
+1428155167 c:\users\nicol_000\desktop\chess_game\jeu.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1428523651 source:c:\users\nicol_000\desktop\chess_game\jeu.c
+	"jeu.h"
+
+1429133483 source:c:\users\nicol_000\desktop\chess_game_v.2\jeu.c
+	"jeu.h"
+
+1429133328 c:\users\nicol_000\desktop\chess_game_v.2\jeu.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1429563602 source:c:\users\nicol_000\desktop\chess_game_v.2\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"jeu.h"
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1431006865 source:c:\users\aurélien\desktop\chess_game_v.2\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"jeu.h"
+	"deplacement.h"
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1429129730 c:\users\aurélien\desktop\chess_game_v.2\jeu.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1431003604 source:c:\users\aurélien\desktop\chess_game_v.2\jeu.c
+	"jeu.h"
+
+1431010239 source:c:\users\aurélien\desktop\chess_game_v.2\deplacement.c
+	"deplacement.h"
+
+1430991471 c:\users\aurélien\desktop\chess_game_v.2\deplacement.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jeu.h"
+
+1431007206 source:c:\users\nicol_000\desktop\chess_game_v.2.1\jeu.c
+	"jeu.h"
+
+1429133330 c:\users\nicol_000\desktop\chess_game_v.2.1\jeu.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1431366961 source:c:\users\nicol_000\desktop\chess_game_v.2.1\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"jeu.h"
+	"deplacement.h"
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1431366577 c:\users\nicol_000\desktop\chess_game_v.2.1\deplacement.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"jeu.h"
+
+1431367381 source:c:\users\nicol_000\desktop\chess_game_v.2.1\deplacement.c
+	"deplacement.h"
+
+1431007206 source:c:\users\nicol_000\desktop\chess_game_v3\jeu.c
+	"jeu.h"
+
+1429133330 c:\users\nicol_000\desktop\chess_game_v3\jeu.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1431457740 source:c:\users\nicol_000\desktop\chess_game_v3\deplacement.c
+	"deplacement.h"
+
+1431457740 c:\users\nicol_000\desktop\chess_game_v3\deplacement.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"jeu.h"
+
+1431459310 source:c:\users\nicol_000\desktop\chess_game_v3\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	"jeu.h"
+	"deplacement.h"
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1431617346 source:c:\users\nicol_000\desktop\chess_game_v4\jeu.c
+	"jeu.h"
+
+1431612780 c:\users\nicol_000\desktop\chess_game_v4\jeu.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1431616259 source:c:\users\nicol_000\desktop\chess_game_v4\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	<SDL/SDL_ttf.h>
+	"jeu.h"
+	"deplacement.h"
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1431616259 c:\users\nicol_000\desktop\chess_game_v4\deplacement.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"jeu.h"
+
+1431617298 source:c:\users\nicol_000\desktop\chess_game_v4\deplacement.c
+	"deplacement.h"
+
+1431969377 source:c:\users\nicol_000\desktop\chess_game_v5\jeu.c
+	"jeu.h"
+
+1431969377 c:\users\nicol_000\desktop\chess_game_v5\jeu.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1431969788 source:c:\users\nicol_000\desktop\chess_game_v5\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	<SDL/SDL_ttf.h>
+	"jeu.h"
+	"deplacement.h"
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1431616259 c:\users\nicol_000\desktop\chess_game_v5\deplacement.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"jeu.h"
+
+1431974663 source:c:\users\nicol_000\desktop\chess_game_v5\deplacement.c
+	"deplacement.h"
+
+1432060758 source:c:\users\aurélien\desktop\chess_game_v5\jeu.c
+	"jeu.h"
+
+1431982986 c:\users\aurélien\desktop\chess_game_v5\jeu.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1431983009 source:c:\users\aurélien\desktop\chess_game_v5\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	<SDL/SDL_ttf.h>
+	"jeu.h"
+	"deplacement.h"
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1431612659 c:\users\aurélien\desktop\chess_game_v5\deplacement.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"jeu.h"
+
+1431977907 source:c:\users\aurélien\desktop\chess_game_v5\deplacement.c
+	"deplacement.h"
+
+1432125609 source:c:\users\nicol_000\desktop\chess_game_v5.1\jeu.c
+	"jeu.h"
+
+1432125404 c:\users\nicol_000\desktop\chess_game_v5.1\jeu.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1431986609 source:c:\users\nicol_000\desktop\chess_game_v5.1\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	<SDL/SDL_ttf.h>
+	"jeu.h"
+	"deplacement.h"
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1431616259 c:\users\nicol_000\desktop\chess_game_v5.1\deplacement.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"jeu.h"
+
+1431981507 source:c:\users\nicol_000\desktop\chess_game_v5.1\deplacement.c
+	"deplacement.h"
+
+1432244730 source:c:\users\nicol_000\desktop\chess_game_v5.2\jeu.c
+	"jeu.h"
+
+1432233683 c:\users\nicol_000\desktop\chess_game_v5.2\jeu.h
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1432247195 source:c:\users\nicol_000\desktop\chess_game_v5.2\main.c
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	<SDL/SDL_ttf.h>
+	"jeu.h"
+	"deplacement.h"
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1432216591 c:\users\nicol_000\desktop\chess_game_v5.2\deplacement.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"jeu.h"
+
+1432244932 source:c:\users\nicol_000\desktop\chess_game_v5.2\deplacement.c
+	"deplacement.h"
+
